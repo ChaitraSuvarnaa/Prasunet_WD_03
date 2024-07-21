@@ -7,3 +7,6 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. P
 - Simple and intuitive user interface.
 - Modal popup to display the result (win or draw).
 - Restart the game at any time.
+
+## Screenshot 
+![image](https://github.com/user-attachments/assets/edfc5590-2635-468f-b0c8-55f270b9689b)
